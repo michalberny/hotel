@@ -1,2 +1,2 @@
-# hotel
+# Hotel
 Hotel OOP training
